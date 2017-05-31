@@ -1,8 +1,12 @@
-## Welcome to GitHub Pages
+## Rap Libs
 
-You can use the [editor on GitHub](https://github.com/jasoneo016/jasoneo016.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Do you regularly respond to your friends texts with rap lyrics? If so, this is the perfect app for you!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+You will be able to search for lyrics from songs, select one that you like, and share that audio clip with that specific lyric to anyone you want through messages.
+
+<a href='https://play.google.com/store/apps/details?id=cs499.cpp.edu.raplibs&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png'/></a>
+
+[Link](https://play.google.com/store/apps/details?id=cs499.cpp.edu.raplibs) and ![Image](src)
 
 ### Markdown
 
