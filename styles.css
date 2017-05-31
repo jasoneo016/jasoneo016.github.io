@@ -11,6 +11,8 @@
 .screens {
     position: absolute;
     margin-left: 100%;
+    width: 326px;
+    height: 600px;
     -webkit-animation-duration: 5s;
     -webkit-animation-name: slidein;
     animation-duration: 5s;
