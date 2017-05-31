@@ -3713,7 +3713,7 @@ tbody.collapse.in {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 320px;
+  width: 640px;
   height: auto;
 }
 @media screen and (max-width: 800px) {
